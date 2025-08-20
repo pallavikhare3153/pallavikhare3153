@@ -1,6 +1,6 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/007/623/233/non_2x/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)](https://rishavchanda.io)
 <h1 align="center">🙏 Welcome to my profile.</h1>
-<h3 align="center">Versatile and skilled developer specializing in Java Full-Stack, .Net, MERN Stack, Azure cloud, System Administration, Data Analytics, Web Development, and App Development.</h3>
+<h3 align="center">Versatile and skilled developer with expertise in Java Full-Stack, .NET, MERN Stack, Azure Cloud, system administration, data analytics, web development, and app development.</h3>
 <br>
 
 <p align="left"> 
